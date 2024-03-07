@@ -38,6 +38,8 @@ le vendite dei prodotti saranno incrementate.
 
 ## Siti Web
 
+I siti sono aggiornati, 7 Marzo 2024
+
 1. [Pasquale Clarizio](https://wwww.pasqualeclarizio.it): Sito web prettamente algoritmico
-2. [Nome del Sito Web 2](link_al_sito_web_2): Breve descrizione del sito web 2.
-3. [Nome del Sito Web 3](link_al_sito_web_3): Breve descrizione del sito web 3.
+2. [Pasquale Clarizio - Python ](https://wwww.pasqualeclarizio.it/python/): Sito per Python.
+3. [Pasquale Clarizio - Django ](https://wwww.pasqualeclarizio.it/django/): Vorresti approfondire le tue conoscenze di Django.
