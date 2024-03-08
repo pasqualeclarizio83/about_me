@@ -29,11 +29,14 @@ le vendite dei prodotti saranno incrementate.
 
 ## Competenze
 - Linguaggio di Markup: HTML con CSS
-- Linguaggi di programmazione: Python, JavaScript
+- Linguaggi di programmazione: C, Pascal, Java, Python, Javascript.
 - Framework: Django e Laravel.
+- Machine Learning: Python e Xgboost
+- Data Analysis: Python e pandas
 - Database: MySQL
 - Sistemi di controllo della versione: Git, GitHub.
 - Metodologie: Agile, Scrum.
+- Skill: mi piace ragionare matematicamente
 - Altro: Buone capacità di problem solving, comunicazione efficace, lavoro di squadra.
 
 ## Siti Web
