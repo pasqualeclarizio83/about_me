@@ -6,7 +6,7 @@ Pasquale Clarizio
 
 Sono Laureato in Informatica e Tecnologie per la produzione del software.
 Sono anche un appassionato di matematica, algoritmi e strutture dati.
-Nutro una grande passione per i linguaggi di programmazione, quali:
+Inoltre, nutro una grande passione per i linguaggi di programmazione, quali:
 C, Java, Python, Php e Javascript.
 Non ho grandi preferenze.
 Ma se dovessi voler scrivere un sito,
@@ -46,3 +46,14 @@ I siti sono aggiornati, 7 Marzo 2024
 1. [Pasquale Clarizio](https://wwww.pasqualeclarizio.it): Sito web prettamente algoritmico
 2. [Pasquale Clarizio - Python ](https://wwww.pasqualeclarizio.it/python/): Sito per Python.
 3. [Pasquale Clarizio - Django ](https://wwww.pasqualeclarizio.it/django/): Vorresti approfondire le tue conoscenze di Django.
+
+
+# Progetti
+
+# Descrizione
+
+I progetti a questo link, permettono di realizzare
+una Dashboard in Python con l'ausilio di Django Framework.
+Nel progetto sono stati implementati algoritmi che permettono l'integrazione dei dati dal formato CSV alla possibilità di gestirli tramite l'ORM di Django. Utilizzata la libreria pandas
+
+4. [Pasquale Clarizio](https://github.com/pasqualeclarizio83/django_framework): Progetti utilizzando il Django Framework
