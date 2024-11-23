@@ -2,8 +2,12 @@
 ## Software Developer
 
 ### Sommario
-Laureato in Informatica e Tecnonologie per la produzione del software
-presso l'Università degli Studi di Bari - Dipartimento di Informatica
+Competenze e solide basi di Python e di Django Framework con l'integrazione di MySQL.
+Solide basi nello sviluppo di QuickApps per piattaforme di domotica, in linguaggio LUA.
+Compenteze nell'elaborazione di documentazione di sviluppo e documentazione tecnica.
+Testing Developer in ambito Frontend ed API.
+
+Competenze avanzate nello sviluppo di gestionali web in linguaggio Php e MySQL.
 
 ### Competenze tecniche
 * **Linguaggi:** C, Java, Pascal, Python, Javascript
