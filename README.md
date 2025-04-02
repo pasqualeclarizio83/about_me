@@ -9,7 +9,8 @@ Testing Developer in ambito Frontend ed API.
 
 Nella progettazione e nello sviluppo di progetti personali: competenze avanzate nello sviluppo di gestionali web in linguaggio Php e MySQL.
 
-[Pagina di Pasquale](https://github.com/pasqualeclarizio83/about_me)
+#### il seguente progetto è stato scritto in php
+[API REGIONI](https://www.pasqualeclarizio.it/progetti/api_regioni/guida.php)
 
 ### Competenze tecniche
 * **Linguaggi:** C, Java, Pascal, Python, Javascript
