@@ -2,12 +2,12 @@
 ## Software Developer
 
 ### Sommario
-Competenze e solide basi di Python e di Django Framework con l'integrazione di MySQL.
+In ambito lavorativo solide basi di python e del framework Django con l'integrazione di DBMS e MySQL.
 Solide basi nello sviluppo di QuickApps per piattaforme di domotica, in linguaggio LUA.
 Compenteze nell'elaborazione di documentazione di sviluppo e documentazione tecnica.
 Testing Developer in ambito Frontend ed API.
 
-Competenze avanzate nello sviluppo di gestionali web in linguaggio Php e MySQL.
+In ambito a progetti personali: competenze avanzate nello sviluppo di gestionali web in linguaggio Php e MySQL.
 
 ### Competenze tecniche
 * **Linguaggi:** C, Java, Pascal, Python, Javascript
@@ -16,7 +16,7 @@ Competenze avanzate nello sviluppo di gestionali web in linguaggio Php e MySQL.
 * **Strumenti:** Git
 
 ### Formazione
-* **Laurea in Informatica e Tecnologie per la Produzione del Software** ([2022])
+* **Laurea in Informatica e Tecnologie per la Produzione del Software** ([ L-31 ])
   * Università degli Studi di [Bari]
 
 ### Interessi
