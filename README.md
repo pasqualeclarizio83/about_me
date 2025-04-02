@@ -12,6 +12,17 @@ Nella progettazione e nello sviluppo di progetti personali: competenze avanzate 
 #### il seguente progetto è stato scritto in php
 [API REGIONI](https://www.pasqualeclarizio.it/progetti/api_regioni/guida.php)
 
+[Gestione Regioni](https://www.pasqualeclarizio.it/progetti/gestione_regioni/index.php)
+
+[Gestione Regioni con invio email](https://www.pasqualeclarizio.it/progetti/gestione_regioni2/index.php)
+
+#### Gestione di un piccolo gestionale (base) con relazione 1 a 1. Puoi utilizzarlo liberamente
+
+[Gestione relazione 1 a 1 in Php](https://www.pasqualeclarizio.it/progetti/relazione_1_a_1/index.php)
+
+[Gestione di un template](https://www.pasqualeclarizio.it/progetti/template_bello/index.php)
+
+
 ### Competenze tecniche
 * **Linguaggi:** C, Java, Pascal, Python, Javascript
 * **Framework:** Laravel e Django
