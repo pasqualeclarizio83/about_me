@@ -2,12 +2,14 @@
 ## Software Developer
 
 ### Sommario
-In ambito lavorativo solide basi di python e del framework Django con l'integrazione di DBMS e MySQL.
+In ambito lavorativo solide basi di python e del framework Django con l'integrazione di DBMS, nello specifico MySQL.
 Solide basi nello sviluppo di QuickApps per piattaforme di domotica, in linguaggio LUA.
 Compenteze nell'elaborazione di documentazione di sviluppo e documentazione tecnica.
 Testing Developer in ambito Frontend ed API.
 
-In ambito a progetti personali: competenze avanzate nello sviluppo di gestionali web in linguaggio Php e MySQL.
+Nella progettazione e nello sviluppo di progetti personali: competenze avanzate nello sviluppo di gestionali web in linguaggio Php e MySQL.
+
+[Pagina di Pasquale](https://github.com/pasqualeclarizio83/about_me)
 
 ### Competenze tecniche
 * **Linguaggi:** C, Java, Pascal, Python, Javascript
