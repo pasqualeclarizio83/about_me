@@ -2,11 +2,14 @@
 ## Software Developer
 
 ### Sommario
-In ambito lavorativo solide basi di python e del framework Django con l'integrazione di DBMS, nello specifico MySQL.
-Solide basi nello sviluppo di QuickApps per piattaforme di domotica, in linguaggio LUA.
-Compenteze nell'elaborazione di documentazione di sviluppo e documentazione tecnica.
-Testing Developer in ambito Frontend ed API.
+#### Lavoro
+Sviluppo Backend: Solida esperienza nello sviluppo con Python, con particolare competenza nell'utilizzo del framework Django per la realizzazione di applicazioni web e gestionali.
+Database: Progettazione e gestione di basi dati relazionali con MySQL e SQLite, incluse operazioni di ottimizzazione, normalizzazione e interazione tramite ORM.
+Domotica: Competenze di base nello sviluppo di QuickApps in ambiente Fibaro, utilizzando il linguaggio LUA per l'automazione e l'integrazione di sistemi domotici.
+Documentazione Tecnica: Esperienza nella redazione di documentazione tecnica per progetti software, incluse specifiche API REST, manuali per utenti e guide per sviluppatori.
+Testing Frontend: Conoscenze di base nel testing funzionale delle interfacce utente, con attenzione alla coerenza tra frontend e backend.
 
+#### Competenze personali
 Nella progettazione e nello sviluppo di progetti personali: competenze avanzate nello sviluppo di gestionali web in linguaggio Php e MySQL.
 
 #### il seguente progetto è stato scritto in php
