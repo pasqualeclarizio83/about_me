@@ -8,12 +8,10 @@ Sviluppatore python con conoscenza base del framework django e familiarità con 
 #### Competenze personali
 Sviluppo Web con PHP e MySQL: Esperienza nello sviluppo di gestionali web-based utilizzando PHP in combinazione con MySQL, con attenzione alla modularità del codice e alla scalabilità delle soluzioni.
 
-Progettazione di API RESTful:
+Servizio RESTful: È un modo standard e organizzato per far "parlare" diverse applicazioni via internet. E' un endpoint di questa API. 
+Chiunque (il tuo frontend o un altro sviluppatore) può fare una richiesta a questo indirizzo e ottenere dati strutturati (JSON) invece di una pagina HTML.
 
-    Realizzazione di un sistema API in PHP per la gestione di dati territoriali (Regioni, Province, Comuni, CAP), con output in formato JSON.
-    Esempio di endpoint: index.php?regioni restituisce l'elenco delle regioni italiane.
-
-[API REGIONI](https://www.pasqualeclarizio.it/progetti/api_regioni/guida.php)
+[API REGIONI](https://www.pasqualeclarizio.it/progetti/php_all/base/italia/)
 
 [Gestione Regioni](https://www.pasqualeclarizio.it/progetti/gestione_regioni/index.php)
 
