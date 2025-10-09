@@ -45,7 +45,7 @@ comunali su database MySQL, mentre la logica di calcolo è interamente gestita s
 Il servizio funziona sia come tool standalone tramite interfaccia web, sia come API provider per sistemi terzi 
 attraverso contratti JSON standardizzati.
 
-[Codice Fiscale con API](https://www.pasqualeclarizio.it/progetti/cf/)
+[Codice Fiscale con API](https://www.pasqualeclarizio.it/progetti/php_all/base/cf/)
 
 #### Gestione di un piccolo gestionale (base) con relazione 1 a 1. Puoi utilizzarlo liberamente
 
