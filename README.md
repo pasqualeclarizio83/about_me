@@ -6,7 +6,17 @@
 Sviluppatore python con conoscenza base del framework django e familiarità con le librerie pandas e xgboost. Ho realizzato una soluzione domotica funzionale come QuickApp utilizzando LUA e XML. Attualmente mi occupo di testing frontend che mi ha fornito solide competenze nella stesura di documentazione tecnica chiara e precisa.
 
 #### Competenze personali
-Sviluppo Web con PHP e MySQL: Esperienza nello sviluppo di gestionali web-based utilizzando PHP in combinazione con MySQL, con attenzione alla modularità del codice e alla scalabilità delle soluzioni.
+Progettazione e implementazione di servizi backend PHP per la gestione di dati complessi, con architetture scalabili che separano logica di business e presentazione. Creazione di API RESTful documentate e consumo delle stesse via AJAX per interfacce frontend dinamiche. Competenza nello sviluppo full-stack: dal database MySQL alla UI, passando per la sicurezza e l'ottimizzazione delle query
+
+Progettazione e sviluppo di architetture software end-to-end:
+
+    API RESTful PHP con gestione avanzata di parametri e response JSON
+
+    Database design e query optimization per dati strutturati
+
+    Frontend dinamici che consumano API interne via AJAX
+
+    Sistematica separazione tra layer logico e presentation layer
 
 Servizio RESTful: È un modo standard e organizzato per far "parlare" diverse applicazioni via internet. E' un endpoint di questa API. 
 Chiunque (il tuo frontend o un altro sviluppatore) può fare una richiesta a questo indirizzo e ottenere dati strutturati (JSON) invece di una pagina HTML.
