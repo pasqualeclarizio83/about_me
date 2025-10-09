@@ -47,12 +47,6 @@ attraverso contratti JSON standardizzati.
 
 [Codice Fiscale con API](https://www.pasqualeclarizio.it/progetti/php_all/base/cf/)
 
-#### Gestione di un piccolo gestionale (base) con relazione 1 a 1. Puoi utilizzarlo liberamente
-
-[Gestione relazione 1 a 1 in Php](https://www.pasqualeclarizio.it/progetti/relazione_1_a_1/index.php)
-
-[Gestione di un template](https://www.pasqualeclarizio.it/progetti/template_bello/index.php)
-
 
 ### Competenze tecniche
 * **Linguaggi:** C, Java, Pascal, Python, Javascript, PHP
