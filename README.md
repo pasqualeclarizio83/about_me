@@ -30,15 +30,20 @@ in modo strutturato e dinamico:
 
 [API REGIONI](https://www.pasqualeclarizio.it/progetti/php_all/base/italia/)
 
-[Gestione Regioni](https://www.pasqualeclarizio.it/progetti/gestione_regioni/index.php)
+È stato sviluppato un servizio di calcolo e validazione codici fiscali italiano con architettura client-server.
+Il sistema implementa un motore di calcolo algoritmico backend che, tramite endpoint RESTful, espone due funzionalità 
+principali:
 
-[Gestione Regioni con invio email](https://www.pasqualeclarizio.it/progetti/gestione_regioni2/index.php)
+    Generazione codice fiscale da parametri anagrafici tramite richiesta GET parametrica
 
-    Sviluppo di API per la generazione e validazione del Codice Fiscale, con parametri in ingresso per nome, cognome, data di nascita, sesso e luogo di nascita, e output in formato JSON.
-    Esempio: index.php?nome=Mario&cognome=Rossi&nascita=15/05/1985&S=M&paese=Roma
-    oppure: index.php?cf=RSSMRA79A04H501K
+    Validazione e reverse-lookup di codici fiscali esistenti
 
-Integrazione Frontend con Dati Territoriali: Sviluppo di un sistema interattivo lato frontend per la selezione dinamica di Regioni, Province e Comuni, con recupero e gestione dei relativi codici ISTAT, utile per form di registrazione o anagrafica.
+L'interfaccia frontend incorpora un sistema di autocompletamento dinamico (type-ahead) per i comuni tramite richieste 
+AJAX asincrone, migliorando l'UX durante l'immissione dati. L'architettura prevede la persistenza dei dati anagrafici 
+comunali su database MySQL, mentre la logica di calcolo è interamente gestita server-side in PHP, garantendo coerenza e sicurezza nei risultati.
+
+Il servizio funziona sia come tool standalone tramite interfaccia web, sia come API provider per sistemi terzi 
+attraverso contratti JSON standardizzati.
 
 [Codice Fiscale con API](https://www.pasqualeclarizio.it/progetti/cf/)
 
