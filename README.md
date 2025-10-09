@@ -10,6 +10,10 @@ Sviluppo Web con PHP e MySQL: Esperienza nello sviluppo di gestionali web-based 
 
 Servizio RESTful: È un modo standard e organizzato per far "parlare" diverse applicazioni via internet. E' un endpoint di questa API. 
 Chiunque (il tuo frontend o un altro sviluppatore) può fare una richiesta a questo indirizzo e ottenere dati strutturati (JSON) invece di una pagina HTML.
+Il servizio si occupa di dati territoriali (regioni, province, comuni, CAP, codici ISTAT).
+Backend: il PHP che riceve la richiesta, interroga il database MySQL e restituisce il JSON.
+Frontend: la pagina web con le select a cascata che l'utente finale vede e usa.
+Database: Il database MySQL che contiene tutte le informazioni.
 
 [API REGIONI](https://www.pasqualeclarizio.it/progetti/php_all/base/italia/)
 
