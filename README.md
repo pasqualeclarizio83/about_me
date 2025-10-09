@@ -15,6 +15,9 @@ Backend: il PHP che riceve la richiesta, interroga il database MySQL e restituis
 Frontend: la pagina web con le select a cascata che l'utente finale vede e usa.
 Database: Il database MySQL che contiene tutte le informazioni.
 
+Realizzato un sistema completo (database, logica di business e interfaccia utente) che, attraverso un'API ben definita, permette di consultare e filtrare dati geografici italiani 
+in modo strutturato e dinamico:
+
 [API REGIONI](https://www.pasqualeclarizio.it/progetti/php_all/base/italia/)
 
 [Gestione Regioni](https://www.pasqualeclarizio.it/progetti/gestione_regioni/index.php)
