@@ -3,11 +3,7 @@
 
 ### Sommario
 #### Lavoro
-Sviluppo Backend: Solida esperienza nello sviluppo con Python, con particolare competenza nell'utilizzo del framework Django per la realizzazione di applicazioni web e gestionali.
-Database: Progettazione e gestione di basi dati relazionali con MySQL e SQLite, incluse operazioni di ottimizzazione, normalizzazione e interazione tramite ORM.
-Domotica: Competenze di base nello sviluppo di QuickApps in ambiente Fibaro, utilizzando il linguaggio LUA per l'automazione e l'integrazione di sistemi domotici.
-Documentazione Tecnica: Esperienza nella redazione di documentazione tecnica per progetti software, incluse specifiche API REST, manuali per utenti e guide per sviluppatori.
-Testing Frontend: Conoscenze di base nel testing funzionale delle interfacce utente, con attenzione alla coerenza tra frontend e backend.
+Sviluppatore python con conoscenza base del framework django e familiarità con le librerie pandas e xgboost. Ho realizzato una soluzione domotica funzionale come QuickApp utilizzando LUA e XML. Attualmente mi occupo di testing frontend che mi ha fornito solide competenze nella stesura di documentazione tecnica chiara e precisa.
 
 #### Competenze personali
 Sviluppo Web con PHP e MySQL: Esperienza nello sviluppo di gestionali web-based utilizzando PHP in combinazione con MySQL, con attenzione alla modularità del codice e alla scalabilità delle soluzioni.
