@@ -6,7 +6,7 @@
 Sviluppatore python con conoscenza base del framework django e familiarità con le librerie pandas e xgboost. Ho realizzato una soluzione domotica funzionale come QuickApp utilizzando LUA e XML. Attualmente mi occupo di testing frontend che mi ha fornito solide competenze nella stesura di documentazione tecnica chiara e precisa.
 
 #### Competenze personali
-Progettazione e implementazione di servizi backend PHP per la gestione di dati complessi, con architetture scalabili che separano logica di business e presentazione. Creazione di API RESTful documentate e consumo delle stesse via AJAX per interfacce frontend dinamiche. Competenza nello sviluppo full-stack: dal database MySQL alla UI, passando per la sicurezza e l'ottimizzazione delle query
+Sviluppo di architetture software end-to-end con PHP e MySQL, progettando API RESTful per la gestione di dati complessi. Implementazione di interfacce frontend dinamiche che consumano servizi backend via Ajax, garantendo separazione tra logica di business e presentation layer. Esperienza nella creazione di sistemi completi: dal database design allo sviluppo di UI/UX, ottimizzando query e garantendo sicurezza nelle applicazioni web. Competenze in progetti di AI e computazione matematica attraverso l’utilizzo di librerie specializzate PHP-ML e Math PHP.
 
 Progettazione e sviluppo di architetture software end-to-end:
 
