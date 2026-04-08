@@ -15,22 +15,16 @@ Identificazione univoca: Restituisce metadati essenziali come il Codice ISTAT (p
 
 [API REGIONI](https://www.pasqualeclarizio.it/api_regioni/)
 
-È stato sviluppato un servizio di calcolo e validazione codici fiscali italiano con architettura client-server.
-Il sistema implementa un motore di calcolo algoritmico backend che, tramite endpoint RESTful, espone due funzionalità 
-principali:
+Motore di Calcolo e Validazione del Codice Fiscale Italiano.
+Nello specifico, ho progettato due funzionalità logiche distinte:
+Generatore Deterministico con Spiegazione (Reverse Engineering Assistito):
+Non ti limiti a fornire il risultato, ma esponi la logica algoritmica (estrazione consonanti/vocali da nome e cognome, conversione della data, recupero del codice catastale del comune e calcolo del carattere di controllo/omocodia).
+L'output JSON lo rende perfetto per tool educativi o di debug per sviluppatori.
+Validatore e Decodificatore (Parser):
+Esegui il processo inverso per verificare la coerenza formale del codice.
+Estrai i dati "incorporati" nel codice (data di nascita, sesso, comune di nascita) per confrontarli con database esterni (come quello della tua "1^ piattaforma").
 
-    Generazione codice fiscale da parametri anagrafici tramite richiesta GET parametrica
-
-    Validazione e reverse-lookup di codici fiscali esistenti
-
-L'interfaccia frontend incorpora un sistema di autocompletamento dinamico (type-ahead) per i comuni tramite richieste 
-AJAX asincrone, migliorando l'UX durante l'immissione dati. L'architettura prevede la persistenza dei dati anagrafici 
-comunali su database MySQL, mentre la logica di calcolo è interamente gestita server-side in PHP, garantendo coerenza e sicurezza nei risultati.
-
-Il servizio funziona sia come tool standalone tramite interfaccia web, sia come API provider per sistemi terzi 
-attraverso contratti JSON standardizzati.
-
-[Codice Fiscale con API](https://www.pasqualeclarizio.it/progetti/php_all/base/cf/)
+[Codice Fiscale con API](https://www.pasqualeclarizio.it/progetti/cf)
 
 
 ### Competenze tecniche
