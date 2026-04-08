@@ -41,7 +41,9 @@ Al momento è gratuito per una questione di mia convenzione! Non ha il servizio 
 
 [API Pdf as service](https://www.pasqualeclarizio.it/progetti/pdf/)
 
-[API Pdf as service](https://www.pasqualeclarizio.it/progetti/pdf/api/api.php)
+[Endpoint Pdf as service](https://www.pasqualeclarizio.it/progetti/pdf/api/api.php)
+
+[Guida API per gestire il servizio fatture, ricevuta](https://www.pasqualeclarizio.it/progetti/pdf/guida_api.php)
 
 Tutto questo è sempre in continua evoluazione
 
