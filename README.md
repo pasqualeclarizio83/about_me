@@ -26,6 +26,14 @@ Estrai i dati "incorporati" nel codice (data di nascita, sesso, comune di nascit
 
 [Codice Fiscale con API](https://www.pasqualeclarizio.it/progetti/cf)
 
+Microservizio di Generazione Documentale Dinamica (PDF-as-a-Service).
+E' stato realizzato un Sistema Gestionale (ERP) modulare basato su API. Ecco cosa caratterizza questa terza parte:
+Motore di Templating Dinamico: L'API non si limita a "pescare" file pronti, ma agisce come un generatore on-the-fly che trasforma dati grezzi (parametri URL) in documenti formali pronti per la validazione legale o commerciale.
+Astrazione della Memorizzazione: Fornendo un URL di download all'interno di un oggetto JSON, separi la logica di creazione (backend) dalla fruizione dell'utente (frontend), permettendo al sistema di gestire file temporanei o archivi cloud.
+Versatilità di Business: Coprendo l'intero ciclo di vendita, dal preventivo (pre-vendita) all'ordine (operativo), fino alla fattura/ricevuta (contabile).
+
+[API Pdf as service](https://www.pasqualeclarizio.it/progetti/pdf/)
+
 
 ### Competenze tecniche
 * **Linguaggi:** C, Java, Pascal, Python, Javascript, PHP
