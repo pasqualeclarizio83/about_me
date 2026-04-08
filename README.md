@@ -15,6 +15,10 @@ Identificazione univoca: Restituisce metadati essenziali come il Codice ISTAT (p
 
 [API REGIONI](https://www.pasqualeclarizio.it/api_regioni/)
 
+[Endpoint API Regioni](https://www.pasqualeclarizio.it/api_regioni/index.php?regione=Puglia)
+
+[Endpoint API CAP](https://www.pasqualeclarizio.it/api_regioni/index.php?cap=70010)
+
 Motore di Calcolo e Validazione del Codice Fiscale Italiano.
 Nello specifico, ho progettato due funzionalità logiche distinte:
 Generatore Deterministico con Spiegazione (Reverse Engineering Assistito):
@@ -26,20 +30,35 @@ Estrai i dati "incorporati" nel codice (data di nascita, sesso, comune di nascit
 
 [Codice Fiscale con API](https://www.pasqualeclarizio.it/progetti/cf)
 
+[Endpoint API CF](https://www.pasqualeclarizio.it/progetti/cf/api/)
+
 Microservizio di Generazione Documentale Dinamica (PDF-as-a-Service).
 E' stato realizzato un Sistema Gestionale (ERP) modulare basato su API. Ecco cosa caratterizza questa terza parte:
 Motore di Templating Dinamico: L'API non si limita a "pescare" file pronti, ma agisce come un generatore on-the-fly che trasforma dati grezzi (parametri URL) in documenti formali pronti per la validazione legale o commerciale.
 Astrazione della Memorizzazione: Fornendo un URL di download all'interno di un oggetto JSON, separi la logica di creazione (backend) dalla fruizione dell'utente (frontend), permettendo al sistema di gestire file temporanei o archivi cloud.
 Versatilità di Business: Coprendo l'intero ciclo di vendita, dal preventivo (pre-vendita) all'ordine (operativo), fino alla fattura/ricevuta (contabile).
+Al momento è gratuito per una questione di mia convenzione! Non ha il servizio Token
 
 [API Pdf as service](https://www.pasqualeclarizio.it/progetti/pdf/)
 
+[API Pdf as service](https://www.pasqualeclarizio.it/progetti/pdf/api/api.php)
+
+Tutto questo è sempre in continua evoluazione
+
 
 ### Competenze tecniche
-* **Linguaggi:** C, Java, Pascal, Python, Javascript, PHP
-* **Framework:** Laravel e Django
-* **Database:** MySQL
-* **Strumenti:** Git
+1. Sviluppo Backend e API Design
+Architettura RESTful: Ovvero, come strutturare endpoint logici (index.php?parametro) per manipolare risorse (regioni, codici fiscali, documenti).
+Gestione dei Dati: Capacità di strutturare e restituire dati nel formato standard JSON, fondamentale per l'interoperabilità tra sistemi diversi.
+Logica Algoritmica Complessa: Ho implementato il calcolo del Codice Fiscale, che richiede la gestione di stringhe, estrazione di pattern (consonanti/vocali) e l'applicazione di algoritmi di controllo (carattere di verifica).
+2. Manipolazione e Generazione di Documenti
+PDF Generation: Ho applicato la trasformazione di dati dinamici (input dell'utente) in documenti statici formattati (PDF), gestendo con TCPDF e wordphp.
+Automazione dei Processi: Ho automatizzato il ciclo di vita del documento: dalla ricezione dei parametri alla creazione fisica del file, fino alla generazione di un URL di download univoco.
+3. Integrazione di Sistemi (Ecosistema Digitale)
+Modularità: Non mi sono solo dedicato a creare un unico blocco monolitico, ma tre microservizi indipendenti che possono comunicare tra loro.
+Data Validation: Ho cercato di estendere le mie competenze nella validazione e nel parsing di dati sensibili, garantendo che le informazioni (come il CF o i dati ISTAT) siano formali e coerenti.
+4. Competenze di Business Logic
+Dominio Fiscale/Amministrativo: Conoscenza delle gerarchie territoriali italiane e le regole della fatturazione/preventivazione, trasformando requisiti burocratici in soluzioni digitali.
 
 ### Formazione
 * **Laurea in Informatica e Tecnologie per la Produzione del Software** ([ L-31 ])
