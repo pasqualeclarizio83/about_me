@@ -6,29 +6,14 @@
 Sviluppatore python con esperienza nello sviluppo di applicazioni web tramite django e conoscenza base di django rest framework per la creazione di API. Competenze nell’analisi dei dati con le librerie python: pandas, numpy, scipy e nello sviluppo di modelli predittivi di base con XgBoost. Esperienza in documentazione e testing (frontend e API) con Playwright e k6 per test end-to-end e performance. Sviluppo di soluzioni per la domotica tramite QuickApp in LUA.
 
 #### Competenze personali
-Sviluppo di architetture software end-to-end con PHP e MySQL, progettando API RESTful per la gestione di dati complessi. Implementazione di interfacce frontend dinamiche che consumano servizi backend via Ajax, garantendo separazione tra logica di business e presentation layer. Esperienza nella creazione di sistemi completi: dal database design allo sviluppo di UI/UX, ottimizzando query e garantendo sicurezza nelle applicazioni web. Competenze in progetti di AI e computazione matematica attraverso l’utilizzo di librerie specializzate PHP-ML e Math PHP.
+API RESTful (o un Web Service) per la consultazione di dati geografici e amministrativi italiani.
+Nello specifico, la tua piattaforma funge da endpoint di backend che permette di navigare gerarchicamente lungo la struttura territoriale italiana:
+Gerarchia dei dati: Il sistema segue il flusso logico Regioni → Province (Città) → Comuni (Paesi).
+Lookup Inverso: Permette la ricerca partendo dal CAP per identificare i comuni associati.
+Formato Standard: L'uso del JSON la rende pronta per essere integrata in applicazioni web o mobile (ad esempio per popolare menu a tendina dinamici in un form di registrazione).
+Identificazione univoca: Restituisce metadati essenziali come il Codice ISTAT (per fini statistici/amministrativi) e il CAP (per fini postali).
 
-Progettazione e sviluppo di architetture software end-to-end:
-
-    API RESTful PHP con gestione avanzata di parametri e response JSON
-
-    Database design e query optimization per dati strutturati
-
-    Frontend dinamici che consumano API interne via AJAX
-
-    Sistematica separazione tra layer logico e presentation layer
-
-Servizio RESTful: È un modo standard e organizzato per far "parlare" diverse applicazioni via internet. E' un endpoint di questa API. 
-Chiunque (il tuo frontend o un altro sviluppatore) può fare una richiesta a questo indirizzo e ottenere dati strutturati (JSON) invece di una pagina HTML.
-Il servizio si occupa di dati territoriali (regioni, province, comuni, CAP, codici ISTAT).
-Backend: il PHP che riceve la richiesta, interroga il database MySQL e restituisce il JSON.
-Frontend: la pagina web con le select a cascata che l'utente finale vede e usa.
-Database: Il database MySQL che contiene tutte le informazioni.
-
-Realizzato un sistema completo (database, logica di business e interfaccia utente) che, attraverso un'API ben definita, permette di consultare e filtrare dati geografici italiani 
-in modo strutturato e dinamico:
-
-[API REGIONI](https://www.pasqualeclarizio.it/progetti/php_all/base/italia/)
+[API REGIONI](https://www.pasqualeclarizio.it/api_regioni/)
 
 È stato sviluppato un servizio di calcolo e validazione codici fiscali italiano con architettura client-server.
 Il sistema implementa un motore di calcolo algoritmico backend che, tramite endpoint RESTful, espone due funzionalità 
