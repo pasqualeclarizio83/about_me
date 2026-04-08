@@ -3,7 +3,7 @@
 
 ### Sommario
 #### Lavoro
-Sviluppatore python con conoscenza base del framework django e familiarità con le librerie pandas e xgboost. Ho realizzato una soluzione domotica funzionale come QuickApp utilizzando LUA e XML. Attualmente mi occupo di testing frontend che mi ha fornito solide competenze nella stesura di documentazione tecnica chiara e precisa.
+Sviluppatore python con esperienza nello sviluppo di applicazioni web tramite django e conoscenza base di django rest framework per la creazione di API. Competenze nell’analisi dei dati con le librerie python: pandas, numpy, scipy e nello sviluppo di modelli predittivi di base con XgBoost. Esperienza in documentazione e testing (frontend e API) con Playwright e k6 per test end-to-end e performance. Sviluppo di soluzioni per la domotica tramite QuickApp in LUA.
 
 #### Competenze personali
 Sviluppo di architetture software end-to-end con PHP e MySQL, progettando API RESTful per la gestione di dati complessi. Implementazione di interfacce frontend dinamiche che consumano servizi backend via Ajax, garantendo separazione tra logica di business e presentation layer. Esperienza nella creazione di sistemi completi: dal database design allo sviluppo di UI/UX, ottimizzando query e garantendo sicurezza nelle applicazioni web. Competenze in progetti di AI e computazione matematica attraverso l’utilizzo di librerie specializzate PHP-ML e Math PHP.
