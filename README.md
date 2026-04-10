@@ -47,13 +47,19 @@ Al momento è gratuito per una questione di mia convenzione! Non ha il servizio 
 
 Degli esempi:
 
-[Crea un PDF con il preventivo e il nome del Cliente](https://www.pasqualeclarizio.it/progetti/pdf/api/api.php?tipo=preventivo&cliente=Pasquale Clarizio)
+[Crea un PDF con il preventivo e il nome del Cliente]
+(https://www.pasqualeclarizio.it/progetti/pdf/api/api.php?tipo=preventivo&cliente=Pasquale%20Clarizio)
 
 L'Api risponderà con un JSON in cui c'è il relativo PDF generato
 
 [Crea un PDF con la fattura e il nome del Cliente il Servizio Offerto e il relativo Prezzo]
-(https://www.pasqualeclarizio.it/progetti/pdf/api/api.php?tipo=fattura&cliente=Pasquale Clarizio&servizio=Consulenza Informatica API
-&prezzo=9000)
+(https://www.pasqualeclarizio.it/progetti/pdf/api/api.php?tipo=fattura&cliente=Pasquale%20Clarizio&servizio=Consulenza%20Informatica%20API%20&prezzo=9000)
+
+[Crea un PDF con la fattura e il nome del Cliente il Servizio Offerto e il relativo Prezzo]
+(https://www.pasqualeclarizio.it/progetti/pdf/api/api.php?tipo=fattura&cliente=Pasquale%20Clarizio&servizio=Consulenza%20Informatica%20API%20&prezzo=9000)
+
+[Crea un PDF con la fattura e il nome del Cliente il Servizio Offerto e il relativo Prezzo e la relativa IVA]
+(https://www.pasqualeclarizio.it/progetti/pdf/api/api.php?tipo=ricevuta&cliente=Pasquale%20Clarizio&servizio=Consulenza%20Informatica%20API&prezzo=9800&iva=22)
 
 L'Api risponderà con un JSON in cui c'è il relativo PDF generato
 
