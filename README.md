@@ -51,6 +51,12 @@ Degli esempi:
 
 L'Api risponderà con un JSON in cui c'è il relativo PDF generato
 
+[Crea un PDF con la fattura e il nome del Cliente il Servizio Offerto e il relativo Prezzo]
+(https://www.pasqualeclarizio.it/progetti/pdf/api/api.php?tipo=fattura&cliente=Pasquale Clarizio&servizio=Consulenza Informatica API
+&prezzo=9000)
+
+L'Api risponderà con un JSON in cui c'è il relativo PDF generato
+
 Tutto questo è sempre in continua evoluazione
 
 
